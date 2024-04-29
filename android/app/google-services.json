@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741911060197",
+    "project_id": "jansample1-2ae42",
+    "storage_bucket": "jansample1-2ae42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741911060197:android:6caae6e4c3130bca28be0c",
+        "android_client_info": {
+          "package_name": "com.luminar.sampleappjan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXJ1o92R5CeU6BtOxmgdlBunc_VsN_DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
